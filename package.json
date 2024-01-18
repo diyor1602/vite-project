@@ -1,0 +1,24 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "description": "javascript todo app",
+  "main": "src/js/app.js",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diyor1602/jstodo.git"
+  },
+  "author": "Diyorbek",
+  "devDependencies": {
+    "vite": "^5.0.8"
+  },
+  "dependencies": {
+		"uuid": "^9.0.1"
+	}
+}
