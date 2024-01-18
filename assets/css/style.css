@@ -21,3 +21,13 @@ body {
   align-items: center;
   gap: 10px;
 }
+
+.fa-github {
+  color: #000;
+  font-size: 35px;
+  transition: all 0.3s ease-in-out;
+}
+
+.fa-github:hover {
+  color: #6c757d;
+}
