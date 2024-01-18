@@ -2,7 +2,7 @@
   "name": "vite-project",
   "private": true,
   "description": "javascript todo app",
-  "main": "src/js/app.js",
+  "main": "assets/js/main.js",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -19,6 +19,6 @@
     "vite": "^5.0.8"
   },
   "dependencies": {
-		"uuid": "^9.0.1"
-	}
+    "uuid": "^9.0.1"
+  }
 }
